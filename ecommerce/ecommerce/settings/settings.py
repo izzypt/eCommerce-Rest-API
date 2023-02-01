@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # External Packages
     'rest_framework',
+    'product.apps.ProductConfig',
     # Internal Packages
 ]
 
